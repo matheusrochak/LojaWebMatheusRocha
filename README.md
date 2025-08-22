@@ -9,7 +9,7 @@ A aplicação simula operações essenciais de cadastro, atualização, exclusã
 - **TypeScript** → Linguagem principal para maior segurança e tipagem estática  
 - **Node.js** → Ambiente de execução  
 - **Express.js** (se estiver usando) → Framework para criação de rotas REST  
-- **Banco de Dados** (ex: SQLite, PostgreSQL ou MongoDB) → Persistência de dados *(especificar o usado)*  
+
 
 ---
 
@@ -56,3 +56,4 @@ LojaWebMatheusRocha/
  ├── package.json
  ├── tsconfig.json
  └── README.md
+
